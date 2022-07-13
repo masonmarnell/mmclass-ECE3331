@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Wed Apr 14 18:25:48 2021
+# Process ID: 10564
+# Current directory: C:/Users/mason/Desktop/MainProject/MainProject/MainProject.runs/synth_1
+# Command line: vivado.exe -log VerilogFile.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source VerilogFile.tcl
+# Log file: C:/Users/mason/Desktop/MainProject/MainProject/MainProject.runs/synth_1/VerilogFile.vds
+# Journal file: C:/Users/mason/Desktop/MainProject/MainProject/MainProject.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source VerilogFile.tcl -notrace
